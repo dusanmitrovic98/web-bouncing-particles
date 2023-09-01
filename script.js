@@ -8,3 +8,4 @@ const numParticles = 100;
 
 class Particle {
   constructor(x, y) {
+    this.x = x;
