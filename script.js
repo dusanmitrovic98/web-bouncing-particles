@@ -43,3 +43,4 @@ function init() {
   }
 }
 
+function animate() {
