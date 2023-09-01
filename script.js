@@ -50,3 +50,4 @@ function animate() {
     particle.draw();
   }
   requestAnimationFrame(animate);
+}
