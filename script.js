@@ -33,3 +33,4 @@ class Particle {
     ctx.closePath();
     ctx.fill();
   }
+}
