@@ -27,3 +27,4 @@ class Particle {
     }
   }
   draw() {
+    ctx.fillStyle = "#fff";
