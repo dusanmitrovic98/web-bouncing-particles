@@ -52,3 +52,4 @@ function animate() {
   requestAnimationFrame(animate);
 }
 
+init();
