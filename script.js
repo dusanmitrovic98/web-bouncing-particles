@@ -20,3 +20,4 @@ class Particle {
 
     // Bounce off the walls
     if (this.x + this.size > canvas.width || this.x - this.size < 0) {
+      this.speedX = -this.speedX;
