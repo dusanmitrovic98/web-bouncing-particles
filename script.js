@@ -18,3 +18,4 @@ class Particle {
     this.x += this.speedX;
     this.y += this.speedY;
 
+    // Bounce off the walls
