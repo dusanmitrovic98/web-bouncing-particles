@@ -15,3 +15,4 @@ class Particle {
     this.speedY = (Math.random() - 0.5) * 5;
   }
   update() {
+    this.x += this.speedX;
