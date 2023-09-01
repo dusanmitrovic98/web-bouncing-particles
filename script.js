@@ -48,3 +48,4 @@ function animate() {
   for (const particle of particles) {
     particle.update();
     particle.draw();
+  }
