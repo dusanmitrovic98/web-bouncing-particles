@@ -42,3 +42,4 @@ function init() {
     particles.push(new Particle(x, y));
   }
 }
+
