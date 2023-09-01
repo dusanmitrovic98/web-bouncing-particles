@@ -17,3 +17,4 @@ class Particle {
   update() {
     this.x += this.speedX;
     this.y += this.speedY;
+
