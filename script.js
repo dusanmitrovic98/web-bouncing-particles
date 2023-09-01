@@ -49,3 +49,4 @@ function animate() {
     particle.update();
     particle.draw();
   }
+  requestAnimationFrame(animate);
