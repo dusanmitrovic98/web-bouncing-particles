@@ -11,3 +11,4 @@ class Particle {
     this.x = x;
     this.y = y;
     this.size = Math.random() * 10 + 5;
+    this.speedX = (Math.random() - 0.5) * 5;
