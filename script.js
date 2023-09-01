@@ -37,3 +37,4 @@ class Particle {
 
 function init() {
   for (let i = 0; i < numParticles; i++) {
+    const x = Math.random() * canvas.width;
