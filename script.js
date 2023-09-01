@@ -24,3 +24,4 @@ class Particle {
     }
     if (this.y + this.size > canvas.height || this.y - this.size < 0) {
       this.speedY = -this.speedY;
+    }
