@@ -26,3 +26,4 @@ class Particle {
       this.speedY = -this.speedY;
     }
   }
+  draw() {
