@@ -34,3 +34,4 @@ class Particle {
     ctx.fill();
   }
 }
+
