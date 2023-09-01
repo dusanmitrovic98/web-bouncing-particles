@@ -35,3 +35,4 @@ class Particle {
   }
 }
 
+function init() {
