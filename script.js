@@ -41,3 +41,4 @@ function init() {
     const y = Math.random() * canvas.height;
     particles.push(new Particle(x, y));
   }
+}
