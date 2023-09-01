@@ -28,3 +28,4 @@ class Particle {
   }
   draw() {
     ctx.fillStyle = "#fff";
+    ctx.beginPath();
