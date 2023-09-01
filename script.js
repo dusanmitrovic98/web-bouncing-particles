@@ -6,3 +6,4 @@ canvas.height = window.innerHeight;
 const particles = [];
 const numParticles = 100;
 
+class Particle {
