@@ -10,3 +10,4 @@ class Particle {
   constructor(x, y) {
     this.x = x;
     this.y = y;
+    this.size = Math.random() * 10 + 5;
